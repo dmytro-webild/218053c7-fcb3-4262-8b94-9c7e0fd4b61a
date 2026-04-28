@@ -64,11 +64,11 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/employee-working-very-concentrated_1098-2517.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/employee-working-very-concentrated_1098-2517.jpg?_wi=1",
           imageAlt: "Professional Office",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/diverse-women-leaders-corporate-meeting-driving-business-growth_482257-119653.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/diverse-women-leaders-corporate-meeting-driving-business-growth_482257-119653.jpg?_wi=1",
           imageAlt: "Team Meeting",
         },
         {
@@ -135,7 +135,7 @@ export default function LandingPage() {
           title: "Audit Services",
           description: "Rigorous internal and external audits to ensure complete compliance.",
           tag: "Trust",
-          imageSrc: "http://img.b2bpic.net/free-photo/employee-working-very-concentrated_1098-2517.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/employee-working-very-concentrated_1098-2517.jpg?_wi=2",
           imageAlt: "Business objects at workplace",
         },
         {
@@ -143,7 +143,7 @@ export default function LandingPage() {
           title: "Bookkeeping",
           description: "Accurate, real-time tracking of all your financial transactions.",
           tag: "Efficient",
-          imageSrc: "http://img.b2bpic.net/free-photo/diverse-women-leaders-corporate-meeting-driving-business-growth_482257-119653.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/diverse-women-leaders-corporate-meeting-driving-business-growth_482257-119653.jpg?_wi=2",
           imageAlt: "Business objects at workplace",
         },
       ]}
